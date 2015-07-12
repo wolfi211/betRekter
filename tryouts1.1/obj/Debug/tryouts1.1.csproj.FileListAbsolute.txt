@@ -8,3 +8,13 @@ c:\users\wolfdhallg\documents\visual studio 2013\Projects\tryouts1.1\tryouts1.1\
 c:\users\wolfdhallg\documents\visual studio 2013\Projects\tryouts1.1\tryouts1.1\obj\Debug\tryouts1.1.pdb
 C:\Users\wolfdhallg\documents\visual studio 2013\Projects\tryouts1.1\tryouts1.1\bin\Debug\Database1.mdf
 C:\Users\wolfdhallg\documents\visual studio 2013\Projects\tryouts1.1\tryouts1.1\bin\Debug\Database1_log.ldf
+C:\Users\Dániel\Documents\Visual Studio 2013\Projects\tryouts1.1\tryouts1.1\bin\Debug\tryouts1.1.exe.config
+C:\Users\Dániel\Documents\Visual Studio 2013\Projects\tryouts1.1\tryouts1.1\obj\Debug\tryouts1.1.exe
+C:\Users\Dániel\Documents\Visual Studio 2013\Projects\tryouts1.1\tryouts1.1\obj\Debug\tryouts1.1.pdb
+C:\Users\Dániel\Documents\Visual Studio 2013\Projects\tryouts1.1\tryouts1.1\bin\Debug\Database1.mdf
+C:\Users\Dániel\Documents\Visual Studio 2013\Projects\tryouts1.1\tryouts1.1\bin\Debug\Database1_log.ldf
+C:\Users\Dániel\Documents\Visual Studio 2013\Projects\tryouts1.1\tryouts1.1\bin\Debug\tryouts1.1.exe
+C:\Users\Dániel\Documents\Visual Studio 2013\Projects\tryouts1.1\tryouts1.1\bin\Debug\tryouts1.1.pdb
+C:\Users\Dániel\Documents\Visual Studio 2013\Projects\tryouts1.1\tryouts1.1\obj\Debug\tryouts1.1.csprojResolveAssemblyReference.cache
+C:\Users\Dániel\Documents\Visual Studio 2013\Projects\tryouts1.1\tryouts1.1\obj\Debug\tryouts1._1.Properties.Resources.resources
+C:\Users\Dániel\Documents\Visual Studio 2013\Projects\tryouts1.1\tryouts1.1\obj\Debug\tryouts1.1.csproj.GenerateResource.Cache
