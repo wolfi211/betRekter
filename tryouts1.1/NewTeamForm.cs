@@ -177,7 +177,7 @@ namespace tryouts1._1
             SqlCommand cmd2 = new SqlCommand();
             SqlDataReader reader;
 
-            connString.AttachDBFilename = "C:\\Users\\wolfdhallg\\Documents\\Visual Studio 2013\\Projects\\tryouts1.1\\tryouts1.1\\Database1.mdf";
+            connString.AttachDBFilename = "|DataDirectory|\\Database1.mdf";
             connString.DataSource = "(LocalDB)\\v11.0";
             connString.IntegratedSecurity = true;
 

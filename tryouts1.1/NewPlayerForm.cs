@@ -106,7 +106,7 @@ namespace tryouts1._1
         private void submitClick(object sender, EventArgs e)
         {
             SqlConnectionStringBuilder connString = new SqlConnectionStringBuilder();
-            connString.AttachDBFilename = "C:\\Users\\wolfdhallg\\Documents\\Visual Studio 2013\\Projects\\tryouts1.1\\tryouts1.1\\Database1.mdf";
+            connString.AttachDBFilename = "|DataDirectory|\\Database1.mdf";
             connString.DataSource = "(LocalDB)\\v11.0";
             connString.IntegratedSecurity = true;
 
