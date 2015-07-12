@@ -1,0 +1,10 @@
+c:\users\wolfdhallg\documents\visual studio 2013\Projects\tryouts1.1\tryouts1.1\bin\Debug\tryouts1.1.exe.config
+c:\users\wolfdhallg\documents\visual studio 2013\Projects\tryouts1.1\tryouts1.1\bin\Debug\tryouts1.1.exe
+c:\users\wolfdhallg\documents\visual studio 2013\Projects\tryouts1.1\tryouts1.1\bin\Debug\tryouts1.1.pdb
+c:\users\wolfdhallg\documents\visual studio 2013\Projects\tryouts1.1\tryouts1.1\obj\Debug\tryouts1.1.csprojResolveAssemblyReference.cache
+c:\users\wolfdhallg\documents\visual studio 2013\Projects\tryouts1.1\tryouts1.1\obj\Debug\tryouts1._1.Properties.Resources.resources
+c:\users\wolfdhallg\documents\visual studio 2013\Projects\tryouts1.1\tryouts1.1\obj\Debug\tryouts1.1.csproj.GenerateResource.Cache
+c:\users\wolfdhallg\documents\visual studio 2013\Projects\tryouts1.1\tryouts1.1\obj\Debug\tryouts1.1.exe
+c:\users\wolfdhallg\documents\visual studio 2013\Projects\tryouts1.1\tryouts1.1\obj\Debug\tryouts1.1.pdb
+C:\Users\wolfdhallg\documents\visual studio 2013\Projects\tryouts1.1\tryouts1.1\bin\Debug\Database1.mdf
+C:\Users\wolfdhallg\documents\visual studio 2013\Projects\tryouts1.1\tryouts1.1\bin\Debug\Database1_log.ldf
