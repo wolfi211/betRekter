@@ -71,6 +71,7 @@
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Mapset.cs" />
     <Compile Include="Match.cs" />
     <Compile Include="NewPlayerForm.cs">
       <SubType>Form</SubType>
